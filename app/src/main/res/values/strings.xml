@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> mortgageCalculator </string>
+    <string name="year15">15</string>
+    <string name="year20">20</string>
+    <string name="year30">30</string>
+    <string name="Calc">Calculate</string>
+
+
+</resources>
